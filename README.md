@@ -1,4 +1,3 @@
-## Problem 1 - 24 points
 Programming Project P6.6 in *Big Java*.
 
 (Note that a snapshot of this problem has been included in the file p6.6.png)
